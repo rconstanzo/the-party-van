@@ -4,11 +4,11 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 5,
+			"revision" : 6,
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 114.0, 329.0, 454.0, 451.0 ],
+		"rect" : [ 773.0, 343.0, 454.0, 451.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -237,7 +237,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 44.0, 151.245209, 41.0, 18.0 ],
+					"patching_rect" : [ 44.0, 142.245209, 41.0, 18.0 ],
 					"text" : "$1 #1"
 				}
 
@@ -265,7 +265,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "bang" ],
-					"patching_rect" : [ 44.0, 176.245209, 36.0, 20.0 ],
+					"patching_rect" : [ 44.0, 174.245209, 36.0, 20.0 ],
 					"text" : "line~"
 				}
 
@@ -482,7 +482,7 @@
 					"destination" : [ "obj-104", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 53.5, 136.622604, 231.0, 136.622604 ],
+					"midpoints" : [ 53.5, 130.622604, 231.0, 130.622604 ],
 					"source" : [ "obj-2", 0 ]
 				}
 
@@ -532,7 +532,7 @@
 					"destination" : [ "obj-34", 1 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 53.5, 214.41333, 167.607666, 214.41333 ],
+					"midpoints" : [ 53.5, 213.41333, 167.607666, 213.41333 ],
 					"source" : [ "obj-33", 0 ]
 				}
 
