@@ -4,11 +4,11 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 0,
+			"revision" : 7,
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 405.0, 202.0, 213.0, 173.0 ],
+		"rect" : [ 405.0, 202.0, 247.0, 160.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -36,7 +36,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 134.0, 11.0, 53.0, 20.0 ],
+					"patching_rect" : [ 176.0, 11.0, 53.0, 20.0 ],
 					"text" : "denoise"
 				}
 
@@ -50,11 +50,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 134.0, 31.0, 30.0, 20.0 ],
-					"saved_object_attributes" : 					{
-						"attr_comment" : ""
-					}
-,
+					"patching_rect" : [ 176.0, 31.0, 30.0, 20.0 ],
 					"text" : "in 2"
 				}
 
@@ -110,10 +106,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 15.0, 113.0, 44.0, 20.0 ],
-					"saved_object_attributes" : 					{
-						"attr_comment" : ""
-					}
-,
 					"text" : "out~ 1"
 				}
 
@@ -128,10 +120,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 84.0, 31.0, 30.0, 20.0 ],
-					"saved_object_attributes" : 					{
-						"attr_comment" : ""
-					}
-,
 					"text" : "in 1"
 				}
 
@@ -146,10 +134,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 15.0, 31.0, 37.0, 20.0 ],
-					"saved_object_attributes" : 					{
-						"attr_comment" : ""
-					}
-,
 					"text" : "in~ 1"
 				}
 
@@ -163,8 +147,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 15.0, 70.0, 138.0, 20.0 ],
-					"text" : "pfft~ fffreeze.pfft 4096 4"
+					"patching_rect" : [ 15.0, 70.0, 180.0, 20.0 ],
+					"text" : "pfft~ fffreeze.pfft 4096 4 args #1"
 				}
 
 			}
@@ -209,8 +193,8 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "fffreeze.pfft.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van/testing/stutter update",
-				"patcherrelativepath" : "./",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/XBOX",
+				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}

@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 6,
+			"revision" : 7,
 			"architecture" : "x86"
 		}
 ,
@@ -52,6 +52,10 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 470.0, 35.0, 30.0, 20.0 ],
+					"saved_object_attributes" : 					{
+						"attr_comment" : ""
+					}
+,
 					"text" : "in 2"
 				}
 
@@ -121,7 +125,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 275.0, 197.0, 41.0, 20.0 ],
+					"patching_rect" : [ 289.0, 189.0, 41.0, 20.0 ],
 					"text" : "%~ 8"
 				}
 
@@ -135,7 +139,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 275.0, 175.0, 47.0, 20.0 ],
+					"patching_rect" : [ 289.0, 167.0, 47.0, 20.0 ],
 					"text" : "+=~ 1"
 				}
 
@@ -149,7 +153,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 275.0, 153.0, 47.0, 20.0 ],
+					"patching_rect" : [ 289.0, 145.0, 47.0, 20.0 ],
 					"text" : "==~ 0"
 				}
 
@@ -359,8 +363,8 @@
 					"numinlets" : 3,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 202.0, 310.0, 165.0, 20.0 ],
-					"text" : "jit.poke~ current-analysis 2 1"
+					"patching_rect" : [ 210.0, 310.0, 177.0, 20.0 ],
+					"text" : "jit.poke~ #1current-analysis 2 1"
 				}
 
 			}
@@ -373,8 +377,8 @@
 					"numinlets" : 3,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 31.0, 310.0, 165.0, 20.0 ],
-					"text" : "jit.poke~ current-analysis 2 0"
+					"patching_rect" : [ 31.0, 310.0, 177.0, 20.0 ],
+					"text" : "jit.poke~ #1current-analysis 2 0"
 				}
 
 			}
@@ -387,8 +391,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "" ],
-					"patching_rect" : [ 682.0, 174.0, 147.0, 20.0 ],
-					"text" : "jit.peek~ chord-matrix 2 1"
+					"patching_rect" : [ 682.0, 174.0, 159.0, 20.0 ],
+					"text" : "jit.peek~ #1chord-matrix 2 1"
 				}
 
 			}
@@ -401,8 +405,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "" ],
-					"patching_rect" : [ 523.0, 174.0, 147.0, 20.0 ],
-					"text" : "jit.peek~ chord-matrix 2 0"
+					"patching_rect" : [ 523.0, 174.0, 159.0, 20.0 ],
+					"text" : "jit.peek~ #1chord-matrix 2 0"
 				}
 
 			}
@@ -564,7 +568,7 @@
 					"destination" : [ "obj-55", 1 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 284.5, 297.0, 159.0, 297.0, 159.0, 297.0, 113.5, 297.0 ],
+					"midpoints" : [ 298.5, 297.0, 159.0, 297.0, 159.0, 297.0, 119.5, 297.0 ],
 					"source" : [ "obj-41", 0 ]
 				}
 
@@ -610,7 +614,7 @@
 					"destination" : [ "obj-54", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 88.5, 287.0, 211.5, 287.0 ],
+					"midpoints" : [ 88.5, 287.0, 219.5, 287.0 ],
 					"source" : [ "obj-5", 0 ]
 				}
 
