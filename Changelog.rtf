@@ -1,0 +1,201 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11400\viewh13000\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 The Party Van\
+by Rodrigo Constanzo\
+\
+--Changelog--\
+\
+v1.01\
+-made the names off the buffers/matrices in \'91stutter\'92 dynamic to allow for duplication of the module\
+-abstracted onset detection into an individual file (onsetdetection.maxpat)\
+-abstracted OSC message routing into an individual file (OSCstrip.maxpat)\
+-doubled Shnth parsing speed (from 10ms to 5ms)\
+-condensed \'91pitch\'92 presets into a coll file for easy editing in the future\
+-condensed \'91lofi\'92 bitwise presets into a coll file for easy editing in the future\
+-tidied jk.softstep/jk.softcore objects\
+-deleted unused \'93dummyIO.maxpat\'94 file\
+\
+v1.0\
+-nearly complete \'91under the hood\'92 rewrite of the code base\
+-over 100 bug fixes\
+-all versions condensed to a single file (mac/windows)\
+-all grid/arc variants supported\
+-hierarchal preset system (wtpa presets, fx presets, global presets)\
+-lots of new input convolution presets\
+-lots of new reverb convolution presets\
+-added Shbobo Shnth control\
+-\'93Reverb\'94 module converted to stereo\
+-rewrite of \'93The Chocolate Grinder\'94 to include an adaptation of \'91tml\'92 and a turntable-like mode\
+\
+v09\
+-added "C-C-Combine" concatenative synthesis module\
+-compatible with old AND new arc (tickbox in setup window)\
+-only one patch regardless of setup now. (tickbox for vari/nonvaribrigthness in setup and windows replaces a subpatch)\
+-added tooltip/hints to all parameters/controls!\
+-added new "Dirt" mode. 'Soft' is the original dirt engine and 'Hard' is a new harsher engine\
+-made "mlr" groupings work with regular play/stop and engaging groups turns off appropriate groups\
+-removed/tweaked GUI elements to (dramatically) reduce actual CPU usage\
+-made "Scheduler in Overdrive" turn on by default since it is generally needed to perform right\
+-added I/O mapping and Audio Interrupt to "Setup" window\
+-decreased latency for general onset detection (1ms vs 5ms previously)\
+-decreased analysis hop size to increase analysis data output rate\
+-changed "Reverb" blend to have audiorate smoothing (no clicks when changing blend quickly)\
+-changed real-time "Brain" so that it now works with GUI interactions (instead of monome only)\
+-changed concat mode of 'Reminder' row to allow for faster grain playback\
+-changed Arc "pages" handling so LEDs show up immediately when changing pages\
+-changed "Reminder" row bypassing/playback so it's click free\
+-improved concat matching and playback (in "Reminder" and "Combine")\
+-fixed a bug that prevented "Dirt" from turning off CPU usage when not in use\
+-fixed a bug that allowed "Combine" to store negative time values\
+-added sensor control framework\
+-revamped all OSC routing to use native objects only as the js solution caused LED latency/lag\
+-refined startup LED pattern so the monome/arc should be more in sync\
+-implemented polybuffer~ for convolution/chocolate/reverb samples\
+\
+v08\
+-revamp of GUI/layout\
+-moved OSC/MIDI-learn/serialosc into revamped "Setup" window\
+-new "smlr" (super-mlr) button rows (3finger = reverse, 4finger = record new loop)\
+-now works with any sample rate! (before it was frozen at 44.1k) (must replace all subpatches)\
+-improved 'whammy' algorithm in "Pitch" module\
+-added blend and presets to "Pitch" module, making it functionally more like a Whammy pedal\
+-added clean/dirty mode to "Pitch" module. Clean is better tracking, dirty is more artifacts\
+-revamped subpage 1/2 of 'Instrument' page (no longer requires fluidsynth~)\
+-revamped all OSC routing using javascript (no longer requires OSC-route)\
+-removed click when starting/stopping all playback modules\
+-completely rebuilt "Stutter" module to remove all clicks\
+-declicked mlr-style jumps (wtpa/mlr modules) and "Slicer" jumps\
+-improved declicking for all buffer playback\
+-changed "Cocolase" 'petal' range to reduce digital artifacts\
+-changed the name of MIDI learn file (making it easier to have mappings persist across updates)\
+-changed "Combine" granular synth engine to allow for varispeed grains\
+-changed 'convolution' mode of "Combine" to use vanilla Max objects (no longer requires codepend~)\
+-added arc controls to Page7 instruments\
+-moved "Pitch", "Lofi", "Chopper" modules into polys for DSP muting (mute~ is deprecated)\
+-removed all instances of mute~ in patch\
+-moved many repeated code sections into abstractions\
+-removed redundant saturation from input/convolution section\
+-changed "Shuffler" so it is always running/recording all of the time\
+-added behind the scenes MIDI mapping (see manual for specific CCs)\
+-Page7 instruments now feed into the reminder row\
+-adjusted "Lofi" preset mapping (it would grunge up too fast)\
+-adjusted "Combine" module scaling\
+-fixed a bug where grouped mlr buffers wouldn't lose their start/end windows when hitting stop\
+-fixed a bug where "Brain2" was analyzing WTPA1 buffer by mistake\
+-fixed a bug where the "Trigger" row wouldn't update LEDs or state machine\
+-fixed a bug where "Grain" position wasn't displaying correctly when only part of the loop was playing\
+-fixed a bug where turning off random mode of "Shuffler" would turn off effect\
+-fixed a rare bug where wtpa loops could sometimes lose their duration and become gigantic\
+-fixed a bug where the wtpa "Brain" was sometimes sending out 'nan's (not a number)\
+-fixed a bug where "Corners" would sometimes give 'matrix out of range' error messages\
+-smoothed master Arc fader LED meter\
+-reduced "The Chocolate Grinder" glitch volume level\
+-increased "The Chocolate Grinder" jitter level at startup\
+-increased "Cocolase" feedback level at startup\
+\
+v07\
+-an adaptation of "Corners" added to page7 (subpages 5/6)\
+-added groups to Page2 "mlr" adaptation (removed mutes)\
+-changed Page2 mlr3/mlr4 overdub to be 'replace' instead of overdub and momentary instead of toggle (for monome presses)\
+-added attack detection to "Reminder" so it now plays from loudest point within time frame\
+-revamped pitch control of wtpa modules to allow for maximum smoothness\
+-revamped 'shift' parameter of "Pitch" effect to allow for maximum smoothness\
+-added gen-based saturation when using input convolution\
+-added a small amount of jitter on startup for "CD" modules\
+-added a tuner to the "Input" subpage\
+-added dim LED display when using "Combine" concat mode\
+-added dim 'mlr' display when using "Combine" convolution mode\
+-added ability to go directly into an 'mlr' press or loop from record mode (on wtpa/mlr modules)\
+-added offline buffer analysis so "Combine" modules works when dragging in samples\
+-added some randomization to "Cocolase" parameters on startup\
+-added LED 'blip' indication for recorded presses on pattern buttons in wtpa/mlr modules\
+-changed the way "Pitch" brain algorithm works (does more than just 0 and 1 now)\
+-changed how 'flip' is compensated for in "Cocolase" modules\
+-changed 'concat' button of "Reminder" row to trigger grains with random timing\
+-changed grid mapping for "Straw" to be more like the original app (I had inverted the orientation)\
+-slightly adjusted onset detection algorithm to make it more sensitive\
+-adjusted "Lofi" modules startup and preset settings\
+-improved transition from "WTPA" playback to "Grain" playback\
+-fixed bug where reverse mode of 'Slice' was causing distortion when overdubbing\
+-fixed bug where the start/end mode of the Arc controls weren't working properly \
+-fixed bug when dragging sample into wtpa1 module\
+-fixed bug where "CD" module LEDs weren't loading immediately when changing pages\
+-fixed bug in Softstep mapping for "Stutter" module\
+-fixed bug where sometimes the LED startup pattern doesn't clear properly\
+-fixed bug where "Grain2" would click when turning it on/off\
+-fixed bug that let you start recording a loop in reverse on "mlr" page\
+-increased contrast between stop/play LED brightness of "CD" modules\
+-fixed preset handling bug that would keep initial state\
+-some behind the scenes optimization in terms of redundant messaging\
+-improved GUI for all subpages\
+-general patch tidiness (with color coded patch cables)\
+\
+v06\
+-new "Pitch" algorithm that sounds more like digitech whammy pedal (new requires sigmund~)\
+-made 'vst' from the input menu universally useful\
+-massive overhaul to how button presses work (in order to work better with MIDI/gui)\
+-"Filter" dirtiness turned down a bit\
+-fixed small click when turning off "Grain"\
+-made varibrightness stuff be 16 steps (for upcoming firmware update)\
+-adjusted the timing of the 'spindown' mode of "Stutter"\
+-fixed bug where resetting one "CD" module reset both\
+-fixed bug that prevented in/out EQ from working\
+\
+v05\
+-added a new page: "The Chocolate Grinder", CD-skipping sampler, to page4\
+-added real-time "Brain" module for input/output FX. Creates dynamic effect presets based on incoming audio\
+-added Arc mapping for all pages (except instrument) (details in manual)\
+-added TouchOSC iPad mapping with included TouchOSC layout file (requires OSC-route external)\
+-added Softstep mapping (no configuration required) with 3 pages worth of controls\
+-added mp3-ification to "Lo-Fi" module\
+-significantly improved attack detection for 'trigger row'\
+-added randomization to "Combine" grain triggering, also made minor adjustments to "Combine" parameter range\
+-add 'hidden' input/output section (click the word "input" on the GUI) with in/out EQ and input channel amp convolution\
+-tweaked 'spindown' mode of "Shuffler" slightly to avoid impossibly fast randomizations, fixed popping sound when turning off "Shuffler" effect & fixed glitch that made it so the first time you use a 'spindown' it doesn't work\
+-fixed bug when dragging samples into wtpa/mlr buffers that wouldn't update the state logic\
+-added display window to wtpa/mlr modules\
+-adding table remapping to "Brain" morph control to make the control slightly non-linear\
+\
+v04\
+-"Combine" module added to Page1. It is a combination of concatenative synthesis (grain replacement) and real-time convolution. (now requires codepend~ for convolution)\
+-"Reverb" engine swapped out for zero-latency convolution with more reverb types\
+-"Filter" engine swapped out for moog style ladder filter\
+-"Pitch" engine swapped out for something significantly better sounding\
+-"Dirt" engine swapped out for something much better sounding (again!)\
+-improved 'lo-fi' mode of wtpa1/wtpa2 modules in terms of sound and cpu usage\
+-better gen-based saturation on cocolase modules\
+-changed the way the '10minute' "Reminder" button works, so that it works via concatenative synthesis of everything recorded in the last 10minutes\
+-increased max recording time of wtpa1/wtpa2 modules (from 30sec to 60sec)\
+-overall improvement in CPU usage (using mute~ objects on most modules)\
+-added arc framework\
+-added Softstep framework\
+-added vst framework\
+-fixed led/state anomaly when recording first for the first time on mlr/wtpa loopers\
+-fixed rare state machine breaking when trying to create a pattern with nothing recorded yet\
+-removed page8 varibrightness stuff as it was causing refreshing problems\
+\
+v03\
+-added "Cocolase", modulated delay/sampler to Page3\
+-added Instrument page(Page7) with adaptations of "Fourths" and "Straw". (requires fluidsynth~)\
+-added MIDI learn by Johannes Schmidt (implemented by Benjamin Van Esser)\
+-added waveform drop to wtpa/mlr modules. Just drop an audio file onto the waveform display\
+-added output record to disk\
+-added "Shuffler", buffer shuffler effect\
+-added "Trigger" row to Page1 that triggers different effects based on incoming audio\
+-changed how the Random mode of stutter works. It can now be engaged but won't take effect until you engage the effect (as opposed to immediately)\
+-changed "Dirt" engine\
+-some non-varibrightness testing and adaption\
+-lots of minor bugfixes\
+\
+v02\
+-added Pages functionality to top row. Page1 is everything as described. Page2 is a four channel mlr page, and Page8 is a levels/master section\
+-"Brain", buffer analysis to dynamic preset generation is functional\
+-couple of bug fixes (pattern recorder and fft freeze)\
+\
+v01\
+-original release\
+}

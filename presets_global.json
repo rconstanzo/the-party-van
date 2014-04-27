@@ -1,0 +1,41 @@
+{
+	"pattrstorage" : 	{
+		"name" : "presets_global",
+		"slots" : 		{
+			"7" : 			{
+				"id" : 7,
+				"name" : "default settings",
+				"data" : 				{
+					"global_preset_fx" : [ 7.0 ],
+					"global_preset_wtpa" : [ 7.0 ],
+					"wtpa::presets_wtpa1" : [ -1 ],
+					"setup::serialosc::deviceid" : [ "m0000004" ],
+					"setup::serialosc::u174010489" : [  ],
+					"setup::serialosc[1]::deviceid" : [ "m0000229" ],
+					"setup::serialosc[1]::u494010452" : [  ],
+					"fx_all::global_effects" : [ -1 ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"name" : "accomp and seasickness",
+				"data" : 				{
+					"global_preset_fx" : [ 9.0 ],
+					"global_preset_wtpa" : [ 9.0 ],
+					"wtpa::presets_wtpa1" : [ -1 ],
+					"setup::serialosc::deviceid" : [ "m0000004" ],
+					"setup::serialosc::u174010489" : [ "m0000004" ],
+					"setup::serialosc[1]::deviceid" : [ "m0000229" ],
+					"setup::serialosc[1]::u494010452" : [ "m0000229" ],
+					"fx_all::global_effects" : [ -1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
