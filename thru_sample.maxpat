@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 3,
+			"revision" : 7,
 			"architecture" : "x86"
 		}
 ,
@@ -283,7 +283,6 @@
 					"coldcolor" : [ 0.741176, 0.184314, 0.756863, 1.0 ],
 					"hotcolor" : [ 0.741176, 0.184314, 0.756863, 1.0 ],
 					"id" : "obj-251",
-					"interval" : 350,
 					"maxclass" : "live.meter~",
 					"numinlets" : 1,
 					"numoutlets" : 1,
@@ -303,7 +302,6 @@
 					"coldcolor" : [ 0.741176, 0.184314, 0.756863, 1.0 ],
 					"hotcolor" : [ 0.741176, 0.184314, 0.756863, 1.0 ],
 					"id" : "obj-250",
-					"interval" : 350,
 					"maxclass" : "live.meter~",
 					"numinlets" : 1,
 					"numoutlets" : 1,
