@@ -3578,7 +3578,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 73.392365, 714.220581, 41.0, 18.0 ],
-									"text" : "$1 30"
+									"text" : "$1 20"
 								}
 
 							}
@@ -3751,7 +3751,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 379.5, 707.0, 41.0, 18.0 ],
-									"text" : "$1 30"
+									"text" : "$1 20"
 								}
 
 							}
