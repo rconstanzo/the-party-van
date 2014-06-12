@@ -26219,7 +26219,7 @@
 					}
 ,
 					"text" : "autopattr",
-					"varname" : "u596000648"
+					"varname" : "u863002001"
 				}
 
 			}
@@ -29400,7 +29400,7 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
 									"patching_rect" : [ 52.0, 114.0, 65.0, 20.0 ],
-									"text" : "bypass 60"
+									"text" : "bypass 40"
 								}
 
 							}
