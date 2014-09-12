@@ -4,11 +4,11 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 6,
+			"revision" : 8,
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 443.0, 174.0, 1050.0, 680.0 ],
+		"rect" : [ 443.0, 200.0, 1050.0, 654.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -212,7 +212,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -852,7 +852,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -1116,7 +1116,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -1576,7 +1576,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -1873,7 +1873,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -2069,8 +2069,8 @@
 									"numinlets" : 3,
 									"numoutlets" : 3,
 									"outlettype" : [ "", "", "" ],
-									"patching_rect" : [ 57.90918, 68.625, 241.0, 20.0 ],
-									"text" : "route /monome/enc/delta /monome/enc/key"
+									"patching_rect" : [ 57.90918, 68.625, 201.0, 20.0 ],
+									"text" : "route /party/enc/delta /party/enc/key"
 								}
 
 							}
@@ -2452,7 +2452,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -2820,7 +2820,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -3272,7 +3272,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -3507,7 +3507,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -4458,11 +4458,11 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
-						"rect" : [ 7.0, 70.0, 659.0, 478.0 ],
+						"rect" : [ 7.0, 96.0, 659.0, 452.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -4502,8 +4502,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 445.741821, 353.08728, 187.0, 18.0 ],
-									"text" : "/monome/grid/led/level/set 7 1 $1"
+									"patching_rect" : [ 445.741821, 353.08728, 167.0, 18.0 ],
+									"text" : "/party/grid/led/level/set 7 1 $1"
 								}
 
 							}
@@ -4517,8 +4517,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 386.741821, 312.08728, 187.0, 18.0 ],
-									"text" : "/monome/grid/led/level/set 6 1 $1"
+									"patching_rect" : [ 386.741821, 311.08728, 167.0, 18.0 ],
+									"text" : "/party/grid/led/level/set 6 1 $1"
 								}
 
 							}
@@ -4532,8 +4532,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 308.741821, 278.08728, 187.0, 18.0 ],
-									"text" : "/monome/grid/led/level/set 5 1 $1"
+									"patching_rect" : [ 308.741821, 278.08728, 167.0, 18.0 ],
+									"text" : "/party/grid/led/level/set 5 1 $1"
 								}
 
 							}
@@ -4547,8 +4547,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 246.741821, 251.08728, 187.0, 18.0 ],
-									"text" : "/monome/grid/led/level/set 4 1 $1"
+									"patching_rect" : [ 246.741821, 251.08728, 167.0, 18.0 ],
+									"text" : "/party/grid/led/level/set 4 1 $1"
 								}
 
 							}
@@ -4562,8 +4562,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 194.741821, 221.08728, 187.0, 18.0 ],
-									"text" : "/monome/grid/led/level/set 3 1 $1"
+									"patching_rect" : [ 194.741821, 221.08728, 167.0, 18.0 ],
+									"text" : "/party/grid/led/level/set 3 1 $1"
 								}
 
 							}
@@ -4577,8 +4577,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 146.741821, 186.08728, 187.0, 18.0 ],
-									"text" : "/monome/grid/led/level/set 2 1 $1"
+									"patching_rect" : [ 146.741821, 186.08728, 167.0, 18.0 ],
+									"text" : "/party/grid/led/level/set 2 1 $1"
 								}
 
 							}
@@ -4592,8 +4592,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 83.741821, 157.08728, 187.0, 18.0 ],
-									"text" : "/monome/grid/led/level/set 1 1 $1"
+									"patching_rect" : [ 83.741821, 157.08728, 167.0, 18.0 ],
+									"text" : "/party/grid/led/level/set 1 1 $1"
 								}
 
 							}
@@ -4703,8 +4703,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 26.741821, 125.08728, 187.0, 18.0 ],
-									"text" : "/monome/grid/led/level/set 0 1 $1"
+									"patching_rect" : [ 26.741821, 125.08728, 167.0, 18.0 ],
+									"text" : "/party/grid/led/level/set 0 1 $1"
 								}
 
 							}
@@ -5369,7 +5369,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -5430,8 +5430,8 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "list", "list" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 36.0, 217.0, 130.0, 80.0 ],
-									"presentation_rect" : [ 0.0, 0.0, 130.0, 80.0 ],
+									"patching_rect" : [ 36.0, 217.0, 128.0, 240.0 ],
+									"presentation_rect" : [ 0.0, 0.0, 128.0, 240.0 ],
 									"rows" : 5
 								}
 
@@ -5799,7 +5799,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -5851,7 +5851,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -6080,7 +6080,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -6309,7 +6309,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -6538,7 +6538,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -6767,7 +6767,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -7018,7 +7018,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -7269,7 +7269,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -7520,7 +7520,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -7859,7 +7859,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -8071,8 +8071,8 @@
 													"numoutlets" : 2,
 													"outlettype" : [ "list", "list" ],
 													"parameter_enable" : 0,
-													"patching_rect" : [ 644.0, 257.100098, 130.0, 80.0 ],
-													"presentation_rect" : [ 667.0, 484.100098, 130.0, 80.0 ],
+													"patching_rect" : [ 644.0, 257.100098, 128.0, 240.0 ],
+													"presentation_rect" : [ 667.0, 484.100098, 128.0, 240.0 ],
 													"rows" : 5
 												}
 
@@ -8142,8 +8142,8 @@
 													"numoutlets" : 2,
 													"outlettype" : [ "list", "list" ],
 													"parameter_enable" : 0,
-													"patching_rect" : [ 496.0, 257.100098, 130.0, 80.0 ],
-													"presentation_rect" : [ 519.0, 484.100098, 130.0, 80.0 ],
+													"patching_rect" : [ 496.0, 257.100098, 128.0, 240.0 ],
+													"presentation_rect" : [ 519.0, 484.100098, 128.0, 240.0 ],
 													"rows" : 5
 												}
 
@@ -8213,8 +8213,8 @@
 													"numoutlets" : 2,
 													"outlettype" : [ "list", "list" ],
 													"parameter_enable" : 0,
-													"patching_rect" : [ 347.0, 260.100098, 130.0, 80.0 ],
-													"presentation_rect" : [ 370.0, 487.100098, 130.0, 80.0 ],
+													"patching_rect" : [ 347.0, 260.100098, 128.0, 240.0 ],
+													"presentation_rect" : [ 370.0, 487.100098, 128.0, 240.0 ],
 													"rows" : 5
 												}
 
@@ -8284,8 +8284,8 @@
 													"numoutlets" : 2,
 													"outlettype" : [ "list", "list" ],
 													"parameter_enable" : 0,
-													"patching_rect" : [ 196.0, 261.100098, 130.0, 80.0 ],
-													"presentation_rect" : [ 219.0, 488.100098, 130.0, 80.0 ],
+													"patching_rect" : [ 196.0, 261.100098, 128.0, 240.0 ],
+													"presentation_rect" : [ 219.0, 488.100098, 128.0, 240.0 ],
 													"rows" : 5
 												}
 
@@ -8355,8 +8355,8 @@
 													"numoutlets" : 2,
 													"outlettype" : [ "list", "list" ],
 													"parameter_enable" : 0,
-													"patching_rect" : [ 41.0, 68.100098, 130.0, 80.0 ],
-													"presentation_rect" : [ 163.0, 514.100098, 130.0, 80.0 ],
+													"patching_rect" : [ 41.0, 68.100098, 128.0, 240.0 ],
+													"presentation_rect" : [ 163.0, 514.100098, 128.0, 240.0 ],
 													"rows" : 5
 												}
 
@@ -8398,8 +8398,8 @@
 													"numoutlets" : 2,
 													"outlettype" : [ "list", "list" ],
 													"parameter_enable" : 0,
-													"patching_rect" : [ 41.0, 262.100098, 130.0, 80.0 ],
-													"presentation_rect" : [ 378.0, 451.0, 130.0, 80.0 ],
+													"patching_rect" : [ 41.0, 262.100098, 128.0, 240.0 ],
+													"presentation_rect" : [ 378.0, 451.0, 128.0, 240.0 ],
 													"rows" : 5
 												}
 
@@ -9004,7 +9004,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -9187,7 +9187,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -9370,7 +9370,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -9553,7 +9553,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -9736,7 +9736,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -10017,7 +10017,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -10514,7 +10514,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -11011,7 +11011,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -11508,7 +11508,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -12019,7 +12019,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -13615,7 +13615,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -13850,7 +13850,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -14085,7 +14085,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -14320,7 +14320,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -14555,7 +14555,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -16544,35 +16544,35 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "coco_core.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "analog~.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "arc.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "arcled.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "randbang.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1

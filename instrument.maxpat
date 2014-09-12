@@ -4,11 +4,11 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 2,
+			"revision" : 8,
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 0.0, 44.0, 1133.0, 706.0 ],
+		"rect" : [ 0.0, 70.0, 1133.0, 680.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -38,7 +38,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 123.732964, 225.450027, 32.5, 13.0 ],
-					"presentation_rect" : [ 272.155273, 223.450027, 0.0, 0.0 ],
 					"text" : "0."
 				}
 
@@ -468,8 +467,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 527.393311, 55.786785, 143.0, 20.0 ],
-					"text" : "route /monome/enc/delta"
+					"patching_rect" : [ 527.393311, 55.786785, 123.0, 20.0 ],
+					"text" : "route /party/enc/delta"
 				}
 
 			}
@@ -650,11 +649,11 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 2,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
-						"rect" : [ 0.0, 44.0, 1280.0, 680.0 ],
+						"rect" : [ 0.0, 70.0, 1280.0, 654.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -1188,7 +1187,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 2,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -4707,11 +4706,11 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 2,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
-						"rect" : [ 97.0, 323.0, 1182.0, 628.0 ],
+						"rect" : [ 88.0, 233.0, 1182.0, 602.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -4840,7 +4839,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 2,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -5106,7 +5105,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 2,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -5400,7 +5399,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 2,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -8022,7 +8021,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 2,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -10382,7 +10381,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 2,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -10671,8 +10670,8 @@
 									"one/row" : 1,
 									"outlettype" : [ "list", "list" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 65.0, 450.0, 130.0, 48.0 ],
-									"presentation_rect" : [ 401.0, 552.0, 130.0, 48.0 ],
+									"patching_rect" : [ 65.0, 450.0, 130.0, 18.0 ],
+									"presentation_rect" : [ 401.0, 552.0, 128.0, 48.0 ],
 									"rows" : 1
 								}
 
@@ -11104,11 +11103,11 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 2,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
-						"rect" : [ 0.0, 102.0, 1459.0, 544.0 ],
+						"rect" : [ 0.0, 128.0, 1459.0, 518.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -11165,8 +11164,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 148.5, 517.0, 157.0, 18.0 ],
-									"text" : "/monome/grid/led/level/all 0"
+									"patching_rect" : [ 148.5, 517.0, 137.0, 18.0 ],
+									"text" : "/party/grid/led/level/all 0"
 								}
 
 							}
@@ -11337,7 +11336,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 2,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -11512,7 +11511,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 2,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -11687,7 +11686,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 2,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -11862,7 +11861,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 2,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -12037,7 +12036,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 2,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -12212,7 +12211,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 2,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -12387,7 +12386,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 2,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -12562,7 +12561,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 2,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -13055,8 +13054,8 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "list", "list" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 1151.0, 176.0, 130.0, 384.0 ],
-									"presentation_rect" : [ 75.0, 75.0, 130.0, 384.0 ],
+									"patching_rect" : [ 1151.0, 176.0, 130.0, 130.0 ],
+									"presentation_rect" : [ 75.0, 75.0, 128.0, 384.0 ],
 									"rows" : 8
 								}
 
@@ -13070,8 +13069,8 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "list", "list" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 1011.0, 176.0, 130.0, 384.0 ],
-									"presentation_rect" : [ 60.0, 60.0, 130.0, 384.0 ],
+									"patching_rect" : [ 1011.0, 176.0, 130.0, 130.0 ],
+									"presentation_rect" : [ 60.0, 60.0, 128.0, 384.0 ],
 									"rows" : 8
 								}
 
@@ -13085,8 +13084,8 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "list", "list" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 871.0, 176.0, 130.0, 384.0 ],
-									"presentation_rect" : [ 45.0, 45.0, 130.0, 384.0 ],
+									"patching_rect" : [ 871.0, 176.0, 130.0, 130.0 ],
+									"presentation_rect" : [ 45.0, 45.0, 128.0, 384.0 ],
 									"rows" : 8
 								}
 
@@ -13100,8 +13099,8 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "list", "list" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 730.0, 176.0, 130.0, 384.0 ],
-									"presentation_rect" : [ 30.0, 30.0, 130.0, 384.0 ],
+									"patching_rect" : [ 730.0, 176.0, 130.0, 130.0 ],
+									"presentation_rect" : [ 30.0, 30.0, 128.0, 384.0 ],
 									"rows" : 8
 								}
 
@@ -13115,8 +13114,8 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "list", "list" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 589.0, 176.0, 130.0, 384.0 ],
-									"presentation_rect" : [ 60.0, 60.0, 130.0, 384.0 ],
+									"patching_rect" : [ 589.0, 176.0, 130.0, 130.0 ],
+									"presentation_rect" : [ 60.0, 60.0, 128.0, 384.0 ],
 									"rows" : 8
 								}
 
@@ -13130,8 +13129,8 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "list", "list" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 448.0, 176.0, 130.0, 384.0 ],
-									"presentation_rect" : [ 45.0, 45.0, 130.0, 384.0 ],
+									"patching_rect" : [ 448.0, 176.0, 130.0, 130.0 ],
+									"presentation_rect" : [ 45.0, 45.0, 128.0, 384.0 ],
 									"rows" : 8
 								}
 
@@ -13145,8 +13144,8 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "list", "list" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 308.0, 176.0, 130.0, 384.0 ],
-									"presentation_rect" : [ 30.0, 30.0, 130.0, 384.0 ],
+									"patching_rect" : [ 308.0, 176.0, 130.0, 130.0 ],
+									"presentation_rect" : [ 30.0, 30.0, 128.0, 384.0 ],
 									"rows" : 8
 								}
 
@@ -13160,8 +13159,8 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "list", "list" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 167.0, 176.0, 130.0, 384.0 ],
-									"presentation_rect" : [ 15.0, 15.0, 130.0, 384.0 ],
+									"patching_rect" : [ 167.0, 176.0, 130.0, 130.0 ],
+									"presentation_rect" : [ 15.0, 15.0, 128.0, 384.0 ],
 									"rows" : 8
 								}
 
@@ -15019,56 +15018,56 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "straw~.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "synthrhodes~.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "synthsub~.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "synthhigh~.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "corners.js",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "synthvoice.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "arc.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "arcled.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1

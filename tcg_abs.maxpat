@@ -4,11 +4,11 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 6,
+			"revision" : 8,
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 515.0, 58.0, 1280.0, 706.0 ],
+		"rect" : [ 515.0, 84.0, 1280.0, 680.0 ],
 		"bgcolor" : [ 0.823518, 0.803184, 0.803184, 1.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -126,7 +126,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -215,7 +215,7 @@
 									"outlettype" : [ "list", "list" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 66.5, 179.0, 130.0, 130.0 ],
-									"presentation_rect" : [ 980.0, 524.0, 130.0, 130.0 ],
+									"presentation_rect" : [ 980.0, 524.0, 128.0, 384.0 ],
 									"rows" : 8
 								}
 
@@ -439,7 +439,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -504,7 +504,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -898,7 +898,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -986,8 +986,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 109.741821, 268.08728, 187.0, 18.0 ],
-													"text" : "/monome/grid/led/level/set #1 6 0"
+													"patching_rect" : [ 109.741821, 268.08728, 167.0, 18.0 ],
+													"text" : "/party/grid/led/level/set #1 6 0"
 												}
 
 											}
@@ -1000,8 +1000,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 66.0, 232.08725, 194.0, 18.0 ],
-													"text" : "/monome/grid/led/level/set #1 6 $1"
+													"patching_rect" : [ 66.0, 232.08725, 174.0, 18.0 ],
+													"text" : "/party/grid/led/level/set #1 6 $1"
 												}
 
 											}
@@ -1339,7 +1339,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -1458,8 +1458,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 320.0, 326.0, 119.0, 18.0 ],
-									"text" : "/monome/ring/all 0 0"
+									"patching_rect" : [ 320.0, 326.0, 99.0, 18.0 ],
+									"text" : "/party/ring/all 0 0"
 								}
 
 							}
@@ -1570,8 +1570,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 130.0, 324.269409, 171.0, 18.0 ],
-									"text" : "/monome/ring/range 0 0 $1 $2"
+									"patching_rect" : [ 130.0, 324.269409, 151.0, 18.0 ],
+									"text" : "/party/ring/range 0 0 $1 $2"
 								}
 
 							}
@@ -1807,7 +1807,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -1872,7 +1872,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -1951,7 +1951,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 6,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -2490,8 +2490,8 @@
 													"numinlets" : 1,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 46.333313, 586.976196, 168.0, 20.0 ],
-													"text" : "prepend /monome/ring/map 1"
+													"patching_rect" : [ 46.333313, 586.976196, 148.0, 20.0 ],
+													"text" : "prepend /party/ring/map 1"
 												}
 
 											}
@@ -2686,8 +2686,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 560.0, 484.75415, 119.0, 18.0 ],
-													"text" : "/monome/ring/all 1 0"
+													"patching_rect" : [ 560.0, 484.75415, 99.0, 18.0 ],
+													"text" : "/party/ring/all 1 0"
 												}
 
 											}
@@ -3089,7 +3089,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -3138,7 +3138,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 6,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -3535,8 +3535,8 @@
 													"numinlets" : 1,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 50.333313, 512.976196, 168.0, 20.0 ],
-													"text" : "prepend /monome/ring/map 1"
+													"patching_rect" : [ 50.333313, 512.976196, 148.0, 20.0 ],
+													"text" : "prepend /party/ring/map 1"
 												}
 
 											}
@@ -3731,8 +3731,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 564.0, 410.75415, 119.0, 18.0 ],
-													"text" : "/monome/ring/all 1 0"
+													"patching_rect" : [ 564.0, 410.75415, 99.0, 18.0 ],
+													"text" : "/party/ring/all 1 0"
 												}
 
 											}
@@ -4086,7 +4086,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -4161,8 +4161,8 @@
 													"numinlets" : 1,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 50.333313, 512.976196, 168.0, 20.0 ],
-													"text" : "prepend /monome/ring/map 1"
+													"patching_rect" : [ 50.333313, 512.976196, 148.0, 20.0 ],
+													"text" : "prepend /party/ring/map 1"
 												}
 
 											}
@@ -4372,8 +4372,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 564.0, 410.75415, 119.0, 18.0 ],
-													"text" : "/monome/ring/all 1 0"
+													"patching_rect" : [ 564.0, 410.75415, 99.0, 18.0 ],
+													"text" : "/party/ring/all 1 0"
 												}
 
 											}
@@ -4913,7 +4913,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -5544,8 +5544,8 @@
 									"numinlets" : 3,
 									"numoutlets" : 3,
 									"outlettype" : [ "", "", "" ],
-									"patching_rect" : [ 49.751465, 74.398987, 241.0, 20.0 ],
-									"text" : "route /monome/enc/delta /monome/enc/key"
+									"patching_rect" : [ 49.751465, 74.398987, 201.0, 20.0 ],
+									"text" : "route /party/enc/delta /party/enc/key"
 								}
 
 							}
@@ -6510,7 +6510,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -6893,8 +6893,8 @@
 					"numinlets" : 3,
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
-					"patching_rect" : [ 288.616089, 102.654022, 241.0, 20.0 ],
-					"text" : "route /monome/enc/key /monome/enc/delta"
+					"patching_rect" : [ 288.616089, 102.654022, 201.0, 20.0 ],
+					"text" : "route /party/enc/key /party/enc/delta"
 				}
 
 			}
@@ -6912,7 +6912,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -6949,7 +6949,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -7000,7 +7000,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 6,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -7847,8 +7847,8 @@
 													"numinlets" : 1,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 50.333313, 633.166016, 168.0, 20.0 ],
-													"text" : "prepend /monome/ring/map 0"
+													"patching_rect" : [ 50.333313, 633.166016, 148.0, 20.0 ],
+													"text" : "prepend /party/ring/map 0"
 												}
 
 											}
@@ -9193,11 +9193,11 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
-						"rect" : [ 226.0, 191.0, 385.0, 390.0 ],
+						"rect" : [ 226.0, 217.0, 385.0, 364.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -9245,7 +9245,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -9912,7 +9912,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -10747,7 +10747,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -11313,7 +11313,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -11721,7 +11721,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -12260,7 +12260,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -14985,28 +14985,28 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "tcg~.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "glitch~.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "arc.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "randbang.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1

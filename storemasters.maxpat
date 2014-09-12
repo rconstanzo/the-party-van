@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 6,
+			"revision" : 8,
 			"architecture" : "x86"
 		}
 ,
@@ -188,8 +188,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 34.0, 107.222229, 88.0, 20.0 ],
-					"text" : "route monome"
+					"patching_rect" : [ 34.0, 107.222229, 68.0, 20.0 ],
+					"text" : "route party"
 				}
 
 			}
@@ -227,8 +227,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 47.5, 394.0, 140.0, 20.0 ],
-					"text" : "sprintf /monome/ring/%s"
+					"patching_rect" : [ 47.5, 394.0, 120.0, 20.0 ],
+					"text" : "sprintf /party/ring/%s"
 				}
 
 			}
@@ -584,7 +584,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "OSCstrip.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
