@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 6,
+			"revision" : 8,
 			"architecture" : "x86"
 		}
 ,
@@ -233,7 +233,7 @@
 					"outlettype" : [ "list", "list" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 75.0, 428.0, 130.0, 18.0 ],
-					"presentation_rect" : [ 354.0, 336.0, 128.0, 18.0 ],
+					"presentation_rect" : [ 354.0, 336.0, 128.0, 26.0 ],
 					"rows" : 1
 				}
 

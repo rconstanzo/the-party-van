@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 7,
+			"revision" : 8,
 			"architecture" : "x86"
 		}
 ,
@@ -139,7 +139,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -201,7 +201,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -544,7 +544,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -730,7 +730,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -988,7 +988,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -1025,7 +1025,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -1205,7 +1205,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -1659,7 +1659,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -1724,7 +1724,7 @@
 																		"appversion" : 																		{
 																			"major" : 6,
 																			"minor" : 1,
-																			"revision" : 7,
+																			"revision" : 8,
 																			"architecture" : "x86"
 																		}
 ,
@@ -2577,7 +2577,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -2837,7 +2837,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -3229,7 +3229,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -4368,7 +4368,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -4404,7 +4404,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -4497,7 +4497,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -4693,7 +4693,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -5547,7 +5547,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -5640,7 +5640,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -5836,7 +5836,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -6711,7 +6711,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -6747,7 +6747,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -6826,7 +6826,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -7022,7 +7022,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -7851,7 +7851,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -7917,7 +7917,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -8113,7 +8113,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -8925,7 +8925,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -8990,7 +8990,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -9186,7 +9186,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -10006,7 +10006,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -10114,7 +10114,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -10310,7 +10310,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -11176,7 +11176,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -11269,7 +11269,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -11465,7 +11465,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -12339,7 +12339,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -12419,7 +12419,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -12470,7 +12470,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -12666,7 +12666,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -13477,7 +13477,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -13542,7 +13542,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -13738,7 +13738,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -14558,7 +14558,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -14609,7 +14609,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -14805,7 +14805,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -15632,7 +15632,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -15736,7 +15736,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -15932,7 +15932,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -16793,7 +16793,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -16884,7 +16884,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -17080,7 +17080,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -18169,7 +18169,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -18205,7 +18205,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -18326,7 +18326,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -18522,7 +18522,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -19379,7 +19379,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -19473,7 +19473,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -19669,7 +19669,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -20499,7 +20499,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -20592,7 +20592,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -20788,7 +20788,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -21626,7 +21626,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -21733,7 +21733,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -21929,7 +21929,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -22776,7 +22776,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -22883,7 +22883,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -23079,7 +23079,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -23941,7 +23941,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -23992,7 +23992,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -24188,7 +24188,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -25121,7 +25121,7 @@
 					}
 ,
 					"text" : "autopattr",
-					"varname" : "u806000726"
+					"varname" : "u296004620"
 				}
 
 			}
@@ -26228,7 +26228,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -26474,7 +26474,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -27671,7 +27671,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -27809,7 +27809,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -28161,7 +28161,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -28490,7 +28490,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -29592,7 +29592,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -29902,7 +29902,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -30484,7 +30484,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -31555,7 +31555,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -31914,7 +31914,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -31968,7 +31968,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -32603,7 +32603,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -32668,7 +32668,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -32838,7 +32838,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -32892,7 +32892,7 @@
 																		"appversion" : 																		{
 																			"major" : 6,
 																			"minor" : 1,
-																			"revision" : 7,
+																			"revision" : 8,
 																			"architecture" : "x86"
 																		}
 ,
@@ -33353,7 +33353,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -33767,7 +33767,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -34142,7 +34142,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,

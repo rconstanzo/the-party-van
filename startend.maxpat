@@ -3,8 +3,9 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 6,
-			"minor" : 0,
-			"revision" : 7
+			"minor" : 1,
+			"revision" : 8,
+			"architecture" : "x86"
 		}
 ,
 		"rect" : [ 270.0, 154.0, 823.0, 521.0 ],

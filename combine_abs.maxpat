@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 6,
+			"revision" : 8,
 			"architecture" : "x86"
 		}
 ,
@@ -135,7 +135,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -427,7 +427,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -464,7 +464,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -515,7 +515,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 6,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -675,7 +675,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 6,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -835,7 +835,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 6,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -995,7 +995,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 6,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -2285,7 +2285,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -2540,7 +2540,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -3845,21 +3845,21 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "combine_core.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "concat~.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "minmeanmax.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1

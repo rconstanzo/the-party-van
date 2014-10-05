@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 6,
+			"revision" : 8,
 			"architecture" : "x86"
 		}
 ,
@@ -37,8 +37,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 265.0, 302.392151, 132.0, 47.0 ],
-					"presentation_rect" : [ 299.0, 183.969208, 0.0, 0.0 ],
+					"patching_rect" : [ 265.0, 302.392151, 135.0, 47.0 ],
 					"text" : "send message to join if there is a space, and to regexp if there isnt"
 				}
 

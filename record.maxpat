@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 2,
+			"revision" : 8,
 			"architecture" : "x86"
 		}
 ,
@@ -35,8 +35,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 223.0, 15.0, 25.0, 25.0 ],
-					"presentation_rect" : [ 152.0, 21.0, 0.0, 0.0 ]
+					"patching_rect" : [ 223.0, 15.0, 25.0, 25.0 ]
 				}
 
 			}

@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 6,
+			"revision" : 8,
 			"architecture" : "x86"
 		}
 ,
@@ -224,7 +224,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -261,7 +261,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -326,7 +326,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 6,
+															"revision" : 8,
 															"architecture" : "x86"
 														}
 ,
@@ -1159,7 +1159,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 6,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -2324,49 +2324,52 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "storemasters.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "OSCstrip.maxpat",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "tcg_abs.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "tcg~.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "glitch~.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "arc.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "randbang.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
-			}
-, 			{
-				"name" : "voicedrive~.mxo",
-				"type" : "iLaX"
 			}
  ]
 	}

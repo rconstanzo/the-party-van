@@ -2553,8 +2553,8 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "list", "list" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 469.0, 97.0, 128.0, 384.0 ],
-									"presentation_rect" : [ 950.0, 494.0, 128.0, 384.0 ],
+									"patching_rect" : [ 469.0, 97.0, 128.0, 194.0 ],
+									"presentation_rect" : [ 950.0, 494.0, 128.0, 194.0 ],
 									"rows" : 8
 								}
 
@@ -7620,8 +7620,8 @@
 									"one/row" : 1,
 									"outlettype" : [ "list", "list" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 414.0, 407.5, 128.0, 48.0 ],
-									"presentation_rect" : [ 386.0, 537.0, 128.0, 48.0 ],
+									"patching_rect" : [ 414.0, 407.5, 128.0, 26.0 ],
+									"presentation_rect" : [ 386.0, 537.0, 128.0, 26.0 ],
 									"rows" : 1
 								}
 
@@ -28377,8 +28377,8 @@
 									"one/row" : 1,
 									"outlettype" : [ "list", "list" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 174.0, 435.0, 128.0, 48.0 ],
-									"presentation_rect" : [ 356.0, 507.0, 128.0, 48.0 ],
+									"patching_rect" : [ 174.0, 435.0, 128.0, 26.0 ],
+									"presentation_rect" : [ 356.0, 507.0, 128.0, 26.0 ],
 									"rows" : 1
 								}
 

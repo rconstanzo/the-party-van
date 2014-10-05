@@ -3,8 +3,9 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 6,
-			"minor" : 0,
-			"revision" : 7
+			"minor" : 1,
+			"revision" : 8,
+			"architecture" : "x86"
 		}
 ,
 		"rect" : [ 238.0, 245.0, 446.0, 417.0 ],
@@ -302,6 +303,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 35.0, 372.0, 42.0, 20.0 ],
+					"saved_object_attributes" : 					{
+						"attr_comment" : ""
+					}
+,
 					"text" : "out~ 1"
 				}
 
@@ -316,6 +321,10 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 35.0, 14.0, 28.0, 20.0 ],
+					"saved_object_attributes" : 					{
+						"attr_comment" : ""
+					}
+,
 					"text" : "in 1"
 				}
 
@@ -347,8 +356,9 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 6,
-							"minor" : 0,
-							"revision" : 7
+							"minor" : 1,
+							"revision" : 8,
+							"architecture" : "x86"
 						}
 ,
 						"rect" : [ 831.0, 304.0, 250.0, 315.0 ],
@@ -383,8 +393,9 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 6,
-											"minor" : 0,
-											"revision" : 7
+											"minor" : 1,
+											"revision" : 8,
+											"architecture" : "x86"
 										}
 ,
 										"rect" : [ 35.0, 85.0, 161.0, 258.0 ],
@@ -588,8 +599,9 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 6,
-											"minor" : 0,
-											"revision" : 7
+											"minor" : 1,
+											"revision" : 8,
+											"architecture" : "x86"
 										}
 ,
 										"rect" : [ 35.0, 85.0, 161.0, 258.0 ],

@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 2,
+			"revision" : 8,
 			"architecture" : "x86"
 		}
 ,
@@ -49,7 +49,7 @@
 					}
 ,
 					"text" : "autopattr",
-					"varname" : "u405015271"
+					"varname" : "u106002546"
 				}
 
 			}
@@ -66,7 +66,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 2,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -919,7 +919,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 2,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -1259,7 +1259,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 2,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -1712,7 +1712,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 2,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -2353,7 +2353,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 2,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -2758,7 +2758,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 2,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -3460,7 +3460,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "lfo~.maxpat",
-				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/Party Van",
+				"bootpath" : "/Users/Rodrigo/Dropbox/Patches/The Party Van",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1

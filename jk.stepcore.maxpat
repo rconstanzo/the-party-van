@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 6,
+			"revision" : 8,
 			"architecture" : "x86"
 		}
 ,
@@ -39,7 +39,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 206.5, 566.41925, 83.0, 47.0 ],
-					"presentation_rect" : [ 645.681885, 533.41925, 0.0, 0.0 ],
 					"text" : "leds"
 				}
 
@@ -55,7 +54,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 683.5, 566.41925, 209.0, 47.0 ],
-					"presentation_rect" : [ 1112.681885, 460.41925, 0.0, 0.0 ],
 					"text" : "text display"
 				}
 
@@ -71,7 +69,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 647.5979, 835.41925, 258.0, 47.0 ],
-					"presentation_rect" : [ 1087.681885, 319.41925, 0.0, 0.0 ],
 					"text" : "output section"
 				}
 
@@ -87,7 +84,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 65.681824, 566.41925, 111.0, 47.0 ],
-					"presentation_rect" : [ 432.681824, 353.41925, 0.0, 0.0 ],
 					"text" : "sysex"
 				}
 
@@ -103,7 +99,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 52.681824, 355.41925, 234.0, 47.0 ],
-					"presentation_rect" : [ 946.681824, 428.41925, 0.0, 0.0 ],
 					"text" : "patcher args"
 				}
 
@@ -1015,7 +1010,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,

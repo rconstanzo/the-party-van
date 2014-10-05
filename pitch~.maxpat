@@ -90,7 +90,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 57.0, 151.0, 159.0, 47.0 ],
-									"presentation_rect" : [ 158.0, 255.0, 0.0, 0.0 ],
 									"text" : "filter everything above 5k to remove noise and avoice phasor-like sounds"
 								}
 
@@ -301,8 +300,7 @@
 									"maxclass" : "outlet",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 270.0, 173.0, 25.0, 25.0 ],
-									"presentation_rect" : [ 165.0, 331.0, 0.0, 0.0 ]
+									"patching_rect" : [ 270.0, 173.0, 25.0, 25.0 ]
 								}
 
 							}
@@ -407,7 +405,6 @@
 					}
 ,
 					"patching_rect" : [ 78.0, 84.0, 43.0, 20.0 ],
-					"presentation_rect" : [ 6.0, 92.0, 0.0, 0.0 ],
 					"saved_object_attributes" : 					{
 						"default_fontface" : 0,
 						"default_fontname" : "Arial",
@@ -521,10 +518,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 143.5, 47.0, 30.0, 20.0 ],
-					"saved_object_attributes" : 					{
-						"attr_comment" : ""
-					}
-,
 					"text" : "in 2"
 				}
 
@@ -1740,6 +1733,10 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 78.0, 47.0, 37.0, 20.0 ],
+					"saved_object_attributes" : 					{
+						"attr_comment" : ""
+					}
+,
 					"text" : "in~ 1"
 				}
 
@@ -1753,6 +1750,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 78.0, 297.0, 44.0, 20.0 ],
+					"saved_object_attributes" : 					{
+						"attr_comment" : ""
+					}
+,
 					"text" : "out~ 1"
 				}
 

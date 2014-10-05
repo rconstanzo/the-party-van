@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 3,
+			"revision" : 8,
 			"architecture" : "x86"
 		}
 ,
@@ -39,7 +39,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 339.0, 73.0, 45.0, 20.0 ],
-					"presentation_rect" : [ 334.5, 73.5, 0.0, 0.0 ],
 					"text" : "r bang"
 				}
 
@@ -54,7 +53,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 339.0, 99.0, 32.5, 18.0 ],
-					"presentation_rect" : [ 476.5, 275.441284, 0.0, 0.0 ],
 					"text" : "0.5"
 				}
 
@@ -203,7 +201,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 3,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -253,7 +251,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 3,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -415,7 +413,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 3,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -577,7 +575,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 3,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -739,7 +737,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 3,
+											"revision" : 8,
 											"architecture" : "x86"
 										}
 ,
@@ -2037,7 +2035,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 3,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,
@@ -2651,7 +2649,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 3,
+							"revision" : 8,
 							"architecture" : "x86"
 						}
 ,

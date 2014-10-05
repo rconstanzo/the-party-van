@@ -6117,8 +6117,8 @@
 									"one/matrix" : 1,
 									"outlettype" : [ "list", "list" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 74.5, 167.692749, 128.0, 96.0 ],
-									"presentation_rect" : [ 0.0, 0.0, 128.0, 96.0 ],
+									"patching_rect" : [ 74.5, 167.692749, 128.0, 50.0 ],
+									"presentation_rect" : [ 0.0, 0.0, 128.0, 50.0 ],
 									"rows" : 2
 								}
 

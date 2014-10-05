@@ -214,8 +214,8 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "list", "list" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 66.5, 179.0, 130.0, 130.0 ],
-									"presentation_rect" : [ 980.0, 524.0, 128.0, 384.0 ],
+									"patching_rect" : [ 66.5, 179.0, 128.0, 194.0 ],
+									"presentation_rect" : [ 980.0, 524.0, 128.0, 194.0 ],
 									"rows" : 8
 								}
 
@@ -15010,10 +15010,6 @@
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
-			}
-, 			{
-				"name" : "voicedrive~.mxo",
-				"type" : "iLaX"
 			}
  ]
 	}
