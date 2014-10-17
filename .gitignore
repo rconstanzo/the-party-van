@@ -1,3 +1,9 @@
-*.mxo
-*.mxe
-*.mxe64
+morphfilter~.mxe
+morphfilter~.mxe64
+multiconvolve~.mxe
+framerank~.mxo/Contents/Info.plist
+framerank~.mxo/Contents/PkgInfo
+morphfilter~.mxo/Contents/Info.plist
+morphfilter~.mxo/Contents/PkgInfo
+multiconvolve~.mxo/Contents/Info.plist
+multiconvolve~.mxo/Contents/PkgInfo
