@@ -45,7 +45,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 4,
 					"outlettype" : [ "", "", "", "" ],
-					"patching_rect" : [ 29.0, 32.0, 59.5, 20.0 ],
+					"patching_rect" : [ 29.0, 32.0, 59.5, 22.0 ],
 					"restore" : 					{
 						"#1_mod_bang_threshold" : [ 0.0 ],
 						"#1_mod_highinput_scaling" : [ 1.0 ],
@@ -59,7 +59,7 @@
 ,
 					"style" : "",
 					"text" : "autopattr",
-					"varname" : "u537003254"
+					"varname" : "u041015836"
 				}
 
 			}
@@ -941,7 +941,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 61.0, 475.0, 53.0, 20.0 ],
+					"patching_rect" : [ 61.0, 475.0, 53.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -1274,10 +1274,29 @@
 								}
 
 							}
+ ],
+						"styles" : [ 							{
+								"name" : "AudioStatus_Menu",
+								"default" : 								{
+									"bgfillcolor" : 									{
+										"type" : "color",
+										"color" : [ 0.294118, 0.313726, 0.337255, 1 ],
+										"color1" : [ 0.454902, 0.462745, 0.482353, 0.0 ],
+										"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
+										"angle" : 270.0,
+										"proportion" : 0.39,
+										"autogradient" : 0
+									}
+
+								}
+,
+								"parentstyle" : "",
+								"multi" : 0
+							}
  ]
 					}
 ,
-					"patching_rect" : [ 378.0, 349.0, 43.0, 20.0 ],
+					"patching_rect" : [ 378.0, 349.0, 43.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -1300,7 +1319,7 @@
 					"numinlets" : 3,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 44.0, 403.0, 64.0, 20.0 ],
+					"patching_rect" : [ 44.0, 403.0, 64.0, 22.0 ],
 					"style" : "",
 					"text" : "switch 2 1"
 				}
@@ -1751,7 +1770,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 146.0, 170.833344, 57.0, 20.0 ],
+					"patching_rect" : [ 146.0, 170.833344, 57.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -1774,7 +1793,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 29.0, 433.0, 34.0, 20.0 ],
+					"patching_rect" : [ 29.0, 433.0, 34.0, 22.0 ],
 					"style" : "",
 					"text" : "gate"
 				}
@@ -2030,7 +2049,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 184.0, 135.666672, 49.0, 20.0 ],
+					"patching_rect" : [ 184.0, 135.666672, 49.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -2352,7 +2371,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 255.5, 135.666672, 61.0, 20.0 ],
+					"patching_rect" : [ 398.5, 22.485901, 61.0, 22.0 ],
 					"style" : "",
 					"text" : "r numbox",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
@@ -2370,7 +2389,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 146.0, 22.485901, 57.0, 20.0 ],
+					"patching_rect" : [ 146.0, 22.485901, 57.0, 22.0 ],
 					"style" : "",
 					"text" : "r hltcolor",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
@@ -2846,7 +2865,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 184.0, 259.5, 159.0, 20.0 ],
+					"patching_rect" : [ 184.0, 259.5, 159.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -2869,7 +2888,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 44.0, 204.0, 121.0, 20.0 ],
+					"patching_rect" : [ 44.0, 204.0, 121.0, 22.0 ],
 					"style" : "",
 					"text" : "poly~ lfo~"
 				}
@@ -3210,7 +3229,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 184.0, 204.0, 89.0, 20.0 ],
+					"patching_rect" : [ 184.0, 204.0, 89.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -3253,7 +3272,7 @@
 					"numinlets" : 6,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 44.0, 349.0, 258.0, 20.0 ],
+					"patching_rect" : [ 44.0, 349.0, 258.0, 22.0 ],
 					"style" : "",
 					"text" : "scale 0. 1. 0. 1."
 				}
